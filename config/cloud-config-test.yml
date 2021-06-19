@@ -1,0 +1,3 @@
+my-db-config:
+    username: 测试环境账号
+    userpass: 测试环境密码
